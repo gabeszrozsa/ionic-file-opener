@@ -1,0 +1,10 @@
+{
+  "/storage": {
+    "target": "https://file-examples.com/storage",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/storage": ""
+    }
+  }
+}

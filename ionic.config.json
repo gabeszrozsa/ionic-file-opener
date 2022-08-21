@@ -3,5 +3,11 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "proxies": [
+    {
+      "path": "/storage",
+      "proxyUrl": "https://file-examples.com/storage"
+    }
+  ]
 }
