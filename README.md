@@ -24,12 +24,6 @@ AndroidManifest.xml
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 ```
 
-## Packages
-
-```shell
-$ cordova plugin add cordova-plugin-file-opener2
-```
-
 ## Proxy
 
 ### proxy.conf.json
